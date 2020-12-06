@@ -1,0 +1,185 @@
+body{
+	margin:0px;
+}
+
+.logo-top{
+  font-size:18px;
+  margin:0px;
+  padding:0px;
+}
+.logo{
+  margin-top:0px;
+
+}
+.logo-top,.logo{
+  font-family:'游ゴシック';
+  color:#696969;
+  margin-left:110px;
+  text-decoration: none;
+}
+.logo-top,.logo:active{
+  background-color:
+}
+.blue{
+  color:#4169e1;
+}
+
+header{
+
+  width:auto;
+  height:100%;
+  border-bottom:3px solid #778899;
+  background:rgba:rgba(245,245,245,0.65);
+  margin-bottom:0px;
+
+
+}
+.ikon:hover {
+	opacity: 0.5 ;
+}
+.akusesu:hover {
+	opacity: 0.5 ;
+}
+.PR:hover {
+	opacity: 0.5 ;
+}
+.akusesu{
+  float: right;
+  color:#191970;
+  text-decoration: none;
+  margin:0px 110px 0px 0px;
+  font-family:'游ゴシック';
+  border-left: 1px solid #b0c4de;
+  border-right: 1px solid #b0c4de;
+  padding :40px 20px 5px 20px;
+}
+.PR{
+  float: right;
+  color:#191970;
+  text-decoration: none;
+  margin:0px 0px 0px 0px;
+  font-family:'游ゴシック';
+  border-left: 1px solid #b0c4de;
+  padding :40px 20px 5px 20px;0px;
+}
+.ikon{
+  float:right;
+  height:30px;
+}
+.event-wrapper{
+  height:auto;
+  width:auto;
+}
+.event-wrapper h1{
+  font-family: Times New Roman;
+  padding-top:30px;
+  font-size:400%;
+  border-bottom: 8px double black;
+  padding-bottom:10px;
+  letter-spacing: 20px;
+  margin:0px;
+  padding-bottom:30px;
+  background-color:white;
+  margin-top:50px;
+}
+.sa{
+	margin:0px 50px ;
+	font-size:150%;
+	border : 2px solid #808080;
+	font-family:'游ゴシック';
+	margin-bottom:40px;
+
+}
+.img-class{
+	height:45%;
+	width:45%;
+	padding-top:15px;
+	border-radius:35px;
+}
+.education{
+	height:auto;
+	width:auto;
+
+
+}
+.tra{
+	font-size:50px;
+	margin-top:0px;
+	margin-bottom:0px;
+	text-decoration: none;
+}
+
+.education-title{
+  font-family: Times New Roman;
+  padding-top:30px;
+  font-size:400%;
+  border-bottom: 8px double black;
+  padding-bottom:10px;
+  letter-spacing: 20px;
+  margin-top:60px;
+  background-color:white;
+  border-top:2px solid black;
+  padding:60px;
+
+}
+.education img{
+	margin-top:20px;
+	height:35%;
+	width:30%;
+}
+.edutitle{
+  margin-top:0px;
+  font-family:'游ゴシック';
+  margin-bottom:200px;
+  text-decoration: none;
+}
+.sys{
+	text-decoration: none;
+	color:black;
+}
+footer{
+	height:200px;
+    background-color:rgba(51,204,255,0.45);
+
+}
+.bottom{
+  font-size:18px;
+  margin-top:10px;
+  padding:0px;
+}
+.logo-bottom{
+margin-top:0px;
+ float:left;
+}
+.bottom,.logo-bottom{
+  font-family:'游ゴシック';
+  color:#696969;
+  margin-left:110px;
+  text-decoration: none;
+}
+.logo-top,.logo:active{
+  
+}
+footer ul{
+	float:right;
+	list-style:none;
+	padding:5px 30px 5px 0px;
+	
+	
+}
+footer li{
+
+}
+.link{
+	text-decoration: none;
+	color:black;
+	font-family:'ＭＳ Ｐ明朝';
+	padding-bottom:40px;
+}
+img:hover {
+	opacity: 0.5 ;
+}
+.link:hover {
+	opacity: 0.5 ;
+}
+
